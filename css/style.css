@@ -1,0 +1,55 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;1,100;1,300&family=Pacifico&display=swap');*/
+
+:root {
+    --pink: #ffddd2;
+    --blue: #83c5be;
+    --dark-pink: #e29578;
+    --dark-blue: #006d77;
+    --white: #edf6f9;
+}
+
+@font-face {
+    font-family: "IndieFlower";
+    src: url("../assets/fonts/IndieFlower-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "IndieFlower", sans-serif;
+    color: var(--dark-blue);
+    background-color: var(--pink);
+}
+
+header {
+    padding: 40px;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+    max-height: 700px;
+    object-fit: contain;
+   
+}
+
+button {
+    width: 200px;
+    font-size: 30px;
+    height: 60px;
+ 
+    background-color: var(--dark-blue);
+    color: var(--white);
+    border-radius: 15px;
+    border-color:var(--dark-blue);
+}
