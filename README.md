@@ -2,7 +2,7 @@
 <br>
 <p> API query exercise developed during Senai's DEVinHouse course. A random cat image is shown every time the page is refreshed or the button is pressed. </p>
 <br>
-<ul>
+<ul align="center">
 <li>HTML</li>
 <li>CSS</li>
 <li>JS</li>
@@ -11,4 +11,4 @@
 <br>
 
 
- <img src="assets/images/project_image.png" width = 500px>
+ <img align= "center" src="assets/images/project_image.png" width = 500px>
