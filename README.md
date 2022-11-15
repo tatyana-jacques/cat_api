@@ -4,9 +4,9 @@
 <br>
 <div align="center">
 <ul align="center">
-<li>HTML</li>
-<li>CSS</li>
-<li>JS</li>
+<li align="center">HTML</li>
+<li align="center">CSS</li>
+<li align="center">JS</li>
 </ul>
 <br>
 <br>
