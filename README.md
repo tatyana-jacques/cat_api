@@ -9,4 +9,6 @@
 </ul>
 <br>
 <br>
- <img  src="assets/images/project_image.png" width = 500px align= "center">
+<div  align= "center">
+ <img  src="assets/images/project_image.png" width = 500px>
+ </div>
